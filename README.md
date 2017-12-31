@@ -11,6 +11,7 @@ Features to be implemented:
 --Various Blacksmith upgrades
 --Post-soldider gathering
 --Sacrifice/Demolish feature
+--Fix buttons/text not resizing with window
 
 Notes:
 --Number of resources has been left on debug, so players start with a lot of resources to speed up testing
